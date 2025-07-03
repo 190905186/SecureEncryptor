@@ -80,13 +80,10 @@ python encryptor_gui.py
 
 ---
 
-Here’s a **README section** you can include to guide users on how to install the app using the `.exe` installer:
-
----
 
 ### 🖥️ Installing Secure Encryptor
 
-To install the application using the prebuilt Windows installer:
+To install the application using the prebuilt Windows installer ( The installer works only for windows):
 
 1. **Download** the latest version of `SecureEncryptorInstaller.exe` from the [`output/`](output/) folder
 2. **Double-click** the `.exe` file to launch the installer.
