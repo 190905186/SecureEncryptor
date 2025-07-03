@@ -1,0 +1,15 @@
+DISCLAIMER
+
+This application, Secure Encryptor, is provided "as-is" for educational and general-purpose use only. While it uses standard cryptographic techniques for encryption and decryption, it is NOT intended for high-security or mission-critical use without thorough validation.
+
+By using this software, you acknowledge and agree to the following:
+
+1. You are solely responsible for how you use this tool and the consequences of its use.
+2. The author(s) and contributors assume no responsibility or liability for any loss, damage, or misuse of data that may result from using this application.
+3. This software does not claim compliance with any regulatory standards such as HIPAA, GDPR, or FIPS.
+4. Use of this application is entirely at your own discretion and risk.
+5. It is recommended to always back up your data before using the encryption or decryption functionalities of this application.
+
+If you do not agree with these terms, please refrain from installing or using Secure Encryptor.
+
+Thank you for using Secure Encryptor.
