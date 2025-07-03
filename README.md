@@ -113,5 +113,6 @@ This project is open-source under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Siva Sai**
+
 Built using Python, Tkinter, and 💡 thoughtful design for real-world secure communication.
 
